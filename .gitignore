@@ -5,3 +5,8 @@ BayesTraitsv3_*
 # netbeans
 nbproject
 
+# result files
+*.Log.txt
+*.Schedule.txt
+*.Stones.txt
+
