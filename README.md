@@ -1,6 +1,6 @@
 #### BayesTraits version 3.x
 
-Forked from Mark Pagel's Software page](http://www.evolution.rdg.ac.uk/BayesTraitsV3.0.1/BayesTraitsV3.0.1.html).
+Forked from [Mark Pagel's Software page](http://www.evolution.rdg.ac.uk/BayesTraitsV3.0.1/BayesTraitsV3.0.1.html).
 
 This is simply a convenient way for me to play with the code. If you want the canonical version please visit the website above.
 
