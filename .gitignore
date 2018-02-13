@@ -1,0 +1,7 @@
+# compiled files
+*.o
+BayesTraitsv3_*
+
+# netbeans
+nbproject
+
