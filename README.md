@@ -2,7 +2,7 @@ BayesTraits version 3.x
 ---------------
 Forked from [Mark Pagel's Software page](http://www.evolution.rdg.ac.uk/BayesTraitsV3.0.1/BayesTraitsV3.0.1.html).
 
-This is simply a convenient way for me to play with the code. If you want the canonical version please visit the website above.
+I have no role in BayesTraits whatsoever. This is simply a convenient way for me to play with the code. If you want the canonical version please visit the website above.
 
 *NOTE*: this version is not guaranteed to change in step with the original source, or to even execute correctly. Beware!
 
